@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-backend-bee64": {
+      "hosting": {
+        "angular-config": [
+          "angular-backend-bee64"
+        ]
+      }
+    }
+  }
+}
